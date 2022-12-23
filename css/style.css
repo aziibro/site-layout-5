@@ -806,13 +806,8 @@ ul {
 }
 
 .slider__item-content {
-  /* margin-left: 15px; */
   min-width: 200px;
   padding: 0 6px;
-}
-
-.slider__item{
-  
 }
 
 .kickstart__slider .slick-arrow {
